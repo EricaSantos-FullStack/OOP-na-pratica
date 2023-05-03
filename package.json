@@ -1,0 +1,13 @@
+{
+  "name": "oop-na-pratica",
+  "version": "1.0.0",
+  "description": "Exercicios desenvolvidos para treinar Programação Orientada a Objetos em JavaScript",
+  "type": "module",
+  "main": "User.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
